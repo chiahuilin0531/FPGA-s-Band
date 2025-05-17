@@ -1,3 +1,4 @@
+Full report please visit ./Group02_report.docx
 <table>
 <colgroup>
 <col style="width: 100%" />
